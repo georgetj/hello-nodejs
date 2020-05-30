@@ -1,2 +1,2 @@
 //First node js program
-console.log("hello");
+console.log("hello world");
